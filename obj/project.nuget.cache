@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9D5Jw20idFderg3zPVNuQmq9P4mSjDQCGUqOk1h4Qzeg942d5zsrUzRVZes9jH/n42PK6GOXHK+wbW3nPK0iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wladr\\Desktop\\usb-port-ruksha-ladzislau\\usb-port-ruksha-ladzislau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wladr\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\wladr\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
